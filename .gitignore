@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 输出/临时文件 (处理后的图片输出目录)
+*/已完成/
+*/输出/
+temp/
+tmp/
+*.tmp
+
+# 日志
+*.log
+
+# 压缩包
+*.zip
+*.rar
+*.7z
